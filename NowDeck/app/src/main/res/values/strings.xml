@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NowDeck</string>
+    <string name="widget_yt">YouTube Music</string>
+    <string name="widget_audible">Audible</string>
+    <string name="widget_desc">Now playing with controls. Resizable.</string>
+    <string name="nothing_playing">Nothing playing</string>
+</resources>
